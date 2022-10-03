@@ -2,9 +2,10 @@
 font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 body {
-background-color: rgba(245, 161, 174, 0.719)
+background-color: rgba(245, 161, 174, 0.719);
 }
-.cursiva {font-style: italic;
+.cursiva {
+font-style: italic;
 color: rgb(214, 106, 138);
 }
 
@@ -22,13 +23,22 @@ padding-left: 15px;
 padding-right: 15px;
 padding-bottom: 20px;
 }
-.cabecera{border:dashed 2px rgb(138, 37, 54);}
-.Titulo{text-align: center}
+.cabecera {
+border: dashed 2px rgb(138, 37, 54);
+}
+.Titulo {
+text-align: center;
+}
 .pie {
 border-top: 2px solid rgb(138, 37, 54);
 }
-.contenido{text-align: justify}
-.destacado{
-    color: rgba(245, 161, 174, 0.719);
-    font-size: 1.4em;}
-    .parrafo{background: white}
+.contenido {
+text-align: justify;
+}
+.destacado {
+color: rgba(245, 161, 174, 0.719);
+font-size: 1.4em;
+}
+.parrafo {
+background: white;
+}
